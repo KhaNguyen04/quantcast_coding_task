@@ -16,7 +16,7 @@ SAZuXPGUrfbcn5UA  <br />
 fbcn5UAVanZf6UtG  <br />
 <br />
 
-Invalid argument would result in error response, test: <br />
+-Invalid argument would result in error response, test: <br />
 <br />
 ./most_active_cookie cookie_log.csv -d 2018-12 <br />
 Error: Date Format: YYYY-MM-DD     <br />
