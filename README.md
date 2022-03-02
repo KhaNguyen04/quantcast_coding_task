@@ -5,9 +5,9 @@ The code was written in Python (.py) and convert into an executable file "most_a
 -To run: Download the .exe file and write in the commandline in the following format: <br />
 ./most_active_cookie [filename] -d [MM-DD-YYYY] <br />
 Test example: <br />
-./most_active_cookie cookie_log.csv -d 2018-12-09  <br />    
+./most_active_cookie cookie_log.csv -d 2018-12-09  
 AtY0laUfhglK3lC7 <br />
-./most_active_cookie cookie_log.csv -d 2018-12-08  <br />    
+./most_active_cookie cookie_log.csv -d 2018-12-08  
 SAZuXPGUrfbcn5UA  <br />
 4sMM2LxV07bPJzwf  <br />
 fbcn5UAVanZf6UtG  <br />
